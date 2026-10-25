@@ -1,16 +1,12 @@
 # p2p-chat
 
-> **Status:** old academic project (Java/Swing, NetBeans/Ant), not maintained.
+Peer-to-peer chat client in Java (Swing, NetBeans/Ant build).
 
-A Java peer-to-peer chat application with local project structure, UI assets, and test coverage.
+- direct chat between peers
+- contact management
+- conversation history
+- user registration
 
-## What it does
-The client supports:
-- direct chat between peers,
-- contact/friend management,
-- history views,
-- user registration flows.
+**Status:** archived university-era project.
 
-## Tech
-- Java
-- XML/Ant build setup
+MIT licence.
